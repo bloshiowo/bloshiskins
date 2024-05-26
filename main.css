@@ -1,0 +1,142 @@
+.container {
+    -webkit-animation: fadein 2s; /* Safari, Chrome and Opera > 12.1 */
+     -moz-animation: fadein 2s; /* Firefox < 16 */
+      -ms-animation: fadein 10s; /* Internet Explorer */
+       -o-animation: fadein 2s; /* Opera < 12.1 */
+          animation: fadein 2s;
+            
+}
+
+body {
+  overflow: visible;
+  text-align: justify;
+  background-color: purple; 
+}
+
+.text {
+  text-align: center;
+  font-family: 'Bahnschrift SemiBold';
+  position: absolute;
+  left: 46.3%;
+  top: 0%;
+  font-size: 50px;
+  transition: 0.1s cubic-bezier(0.4,-0.75, 0.50, 1.4);
+}
+
+.text2 {
+  text-align: center;
+  font-family: 'Bahnschrift SemiBold';
+  position: absolute;
+  left: 49%;
+  top: 200%;
+  font-size: 20px;
+  transition: 0.1s cubic-bezier(0.4,-0.75, 0.50, 1.4);
+}
+
+#negro 
+{
+
+  text-align: center;
+  font-family: 'Lato';
+  position: absolute;
+  left: 30%;
+  top: 20%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  font-size: 60px;
+  
+}
+#negro a
+{
+  color: rgba(0, 0, 0, 0.733);
+  text-decoration: none;
+  transition: 0.2s ease-in-out;
+  
+}
+#negro a:hover
+{
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+  cursor: pointer;
+}
+
+#negro img {
+    width: 640px;
+    height: 360px;
+    position: absolute;
+    top: 200px;
+    left: -170px;
+  }
+
+#negro2
+{
+  text-align: center;
+  font-family: 'Lato';
+  position: absolute;
+  left: 70%;
+  top: 20%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  font-size: 60px;
+  padding: 15px;
+
+  
+}
+#negro2 a
+{
+  color: rgba(0, 0, 0, 0.733);
+  text-decoration: none;
+  transition: 0.2s ease-in-out;
+}
+#negro2 a:hover
+{
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+  cursor: pointer;
+
+}
+
+#negro2 img {
+    width: 640px;
+    height: 360px;
+    position: absolute;
+    top: 215px;
+    left: -180px;
+  }
+
+  #negro3
+  {
+    text-align: center;
+    font-family: 'Lato';
+    position: absolute;
+    left: 50%;
+    top: 100%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    font-size: 60px;
+    padding: 15px;
+  
+    
+  }
+  #negro3 a
+  {
+    color: rgba(0, 0, 0, 0.733);
+    text-decoration: none;
+    transition: 0.2s ease-in-out;
+  }
+  #negro3 a:hover
+  {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    cursor: pointer;
+  
+  }
+  
+  #negro3 img {
+      width: 640px;
+      height: 360px;
+      position: absolute;
+      top: 200px;
+      left: -170px;
+  }
+
