@@ -33,7 +33,7 @@ body {
   transition: 0.1s cubic-bezier(0.4,-0.75, 0.50, 1.4);
 }
 
-#skin1
+#a 
 {
 
   text-align: center;
@@ -46,21 +46,21 @@ body {
   font-size: 60px;
   
 }
-#skin1 a
+#a a
 {
   color: rgba(0, 0, 0, 0.733);
   text-decoration: none;
   transition: 0.2s ease-in-out;
   
 }
-#skin1 a:hover
+#a a:hover
 {
   color: rgb(0, 0, 0);
   text-decoration: none;
   cursor: pointer;
 }
 
-#skin1 img {
+#a img {
     width: 640px;
     height: 360px;
     position: absolute;
@@ -68,7 +68,7 @@ body {
     left: -170px;
   }
 
-#skin2
+#a2
 {
   text-align: center;
   font-family: 'Lato';
@@ -82,13 +82,13 @@ body {
 
   
 }
-#skin2 a
+#a2 a
 {
   color: rgba(0, 0, 0, 0.733);
   text-decoration: none;
   transition: 0.2s ease-in-out;
 }
-#skin2 a:hover
+#a2 a:hover
 {
   color: rgb(0, 0, 0);
   text-decoration: none;
@@ -96,7 +96,7 @@ body {
 
 }
 
-#skin2 img {
+#a2 img {
     width: 640px;
     height: 360px;
     position: absolute;
@@ -104,7 +104,7 @@ body {
     left: -180px;
   }
 
-  #skin3
+  #a3
   {
     text-align: center;
     font-family: 'Lato';
@@ -118,13 +118,13 @@ body {
   
     
   }
-  #skin3 a
+  #a3 a
   {
     color: rgba(0, 0, 0, 0.733);
     text-decoration: none;
     transition: 0.2s ease-in-out;
   }
-  #skin3 a:hover
+  #a3 a:hover
   {
     color: rgb(0, 0, 0);
     text-decoration: none;
@@ -132,11 +132,10 @@ body {
   
   }
   
-  #skin3 img {
+  #a3 img {
       width: 640px;
       height: 360px;
       position: absolute;
       top: 200px;
       left: -170px;
   }
-
