@@ -33,7 +33,7 @@ body {
   transition: 0.1s cubic-bezier(0.4,-0.75, 0.50, 1.4);
 }
 
-#negro 
+#skin1
 {
 
   text-align: center;
@@ -46,21 +46,21 @@ body {
   font-size: 60px;
   
 }
-#negro a
+#skin1 a
 {
   color: rgba(0, 0, 0, 0.733);
   text-decoration: none;
   transition: 0.2s ease-in-out;
   
 }
-#negro a:hover
+#skin1 a:hover
 {
   color: rgb(0, 0, 0);
   text-decoration: none;
   cursor: pointer;
 }
 
-#negro img {
+#skin1 img {
     width: 640px;
     height: 360px;
     position: absolute;
@@ -68,7 +68,7 @@ body {
     left: -170px;
   }
 
-#negro2
+#skin2
 {
   text-align: center;
   font-family: 'Lato';
@@ -82,13 +82,13 @@ body {
 
   
 }
-#negro2 a
+#skin2 a
 {
   color: rgba(0, 0, 0, 0.733);
   text-decoration: none;
   transition: 0.2s ease-in-out;
 }
-#negro2 a:hover
+#skin2 a:hover
 {
   color: rgb(0, 0, 0);
   text-decoration: none;
@@ -96,7 +96,7 @@ body {
 
 }
 
-#negro2 img {
+#skin2 img {
     width: 640px;
     height: 360px;
     position: absolute;
@@ -104,7 +104,7 @@ body {
     left: -180px;
   }
 
-  #negro3
+  #skin3
   {
     text-align: center;
     font-family: 'Lato';
@@ -118,13 +118,13 @@ body {
   
     
   }
-  #negro3 a
+  #skin3 a
   {
     color: rgba(0, 0, 0, 0.733);
     text-decoration: none;
     transition: 0.2s ease-in-out;
   }
-  #negro3 a:hover
+  #skin3 a:hover
   {
     color: rgb(0, 0, 0);
     text-decoration: none;
@@ -132,7 +132,7 @@ body {
   
   }
   
-  #negro3 img {
+  #skin3 img {
       width: 640px;
       height: 360px;
       position: absolute;
